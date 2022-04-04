@@ -11412,6 +11412,14 @@ textarea.form-control-lg {
 {
     grid-area: bio;
 }
+.flexbox
+{
+    display: flex;
+    width: 1fr;
+    background-color: white;
+    color: #000;
+}
+
 
 
 /*# sourceMappingURL=bootstrap.css.map */
